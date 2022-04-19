@@ -12,7 +12,8 @@
 
 ## Запуск
 
-``` bash ./script.sh 
+``` 
+bash ./script.sh 
 ```
 
 ## Портирование
