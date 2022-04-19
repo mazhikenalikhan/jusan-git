@@ -18,7 +18,7 @@ bash ./script.sh
 
 ## Портирование
 
-Данный проект можно портировать на другие языки программированпия.
+Данный проект можно портировать на другие языки программирования.
 
 На JAVA
 
@@ -51,7 +51,7 @@ int main(){
 
 |Платформа|Ссылка|Отвечу за|
 |---------|------|---------|
-|Почта    |[ссылка](google.com)|24 часа  |
-|LinkedIn |[ссылка](google.com)|3 часа   |
-|WhatsApp |[ссылка](google.com)|30 минут |
-|Telagram |[ссылка](google.com)|5 минут  |
+|Почта    |mazhiken.alikhan@gmail.com|24 часа  |
+|LinkedIn |[ссылка](https://kz.linkedin.com/in/mazhiken/en)|3 часа   |
+|WhatsApp |[ссылка](https://www.whatsapp.com/)|Никогда |
+|Telagram |[ссылка](https://web.telegram.org/z/#956633793)|5 минут  |
