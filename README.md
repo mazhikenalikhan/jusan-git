@@ -12,7 +12,7 @@
 
 ## Запуск
 
-<span style="color:gray">bash ./script.sh</span>
+<span style="color:grey">bash ./script.sh</span>
 
 ## Портирование
 
