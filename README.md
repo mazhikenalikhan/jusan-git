@@ -12,7 +12,7 @@
 
 ## Запуск
 
-<span style="color:grey">bash ./script.sh</span>
+``` bash ./script.sh ```
 
 ## Портирование
 
@@ -20,7 +20,6 @@
 
 На JAVA
 
-<span style="color:gray">
 ```java
 class Main{
     public static void main(String[] args){
@@ -28,11 +27,9 @@ class Main{
     }
 }
 ```
-</span>
 
 На C++
 
-<span style="color:gray">
 ```cpp
 #include <iostream>
 
@@ -43,7 +40,6 @@ int main(){
     return 0;
 }
 ```
-</span>
 
 > :bulb: <font color="gray">Попробуйте реализовать на Python, Go и JavaScript</font>
 
