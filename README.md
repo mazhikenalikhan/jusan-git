@@ -1,6 +1,6 @@
 # stepik-id-printer
 
-Это проект для вывода моего персонального идентификатора на *образовательной платформе* <span style="color:gray">stepik.org</span>.
+Это проект для вывода моего персонального идентификатора на *образовательной платформе* ```stepik.org```.
 
 ## Возможности
 
@@ -43,7 +43,7 @@ int main(){
 }
 ```
 
-> :bulb: <font color="gray">Попробуйте реализовать на Python, Go и JavaScript</font>
+> :bulb: <font color="gray">Попробуйте реализовать на Python, Go и JavaScript.</font>
 
 ## Контакты разработчика
 
